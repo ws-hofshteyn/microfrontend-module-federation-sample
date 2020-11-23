@@ -9,8 +9,8 @@ Micro frontend application will run at 3001 port.
 Resources:
 | Name | Link |
 | ------ | ------ |
-| Micro frontend | [https://micro-frontends.org][PlDb] |
-| Documents‐to‐Applications Continuum | [https://ar.al/notes/the-documents-to-applications-continuum][PlDb] |
-| Webpack Module Federation Instruction | [https://webpack.js.org/concepts/module-federation][PlDb] |
-| A Module Federation Example for React | [https://rb.gy/amknxm][PlDb] |
-| A microservice approach to front-end web development | [https://rb.gy/alryc5][PlDb] |
+| Micro frontend | https://micro-frontends.org |
+| Documents‐to‐Applications Continuum | https://ar.al/notes/the-documents-to-applications-continuum |
+| Webpack Module Federation Instruction | https://webpack.js.org/concepts/module-federation |
+| A Module Federation Example for React | https://rb.gy/amknxm |
+| A microservice approach to front-end web development | https://rb.gy/alryc5 |
